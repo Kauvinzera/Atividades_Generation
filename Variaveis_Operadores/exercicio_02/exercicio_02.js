@@ -1,4 +1,4 @@
-let leia = require("readline-sync");
+import leia from "readline-sync";
 
 let nota1;
 let nota2;

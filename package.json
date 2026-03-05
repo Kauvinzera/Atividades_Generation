@@ -2,5 +2,26 @@
   "type": "module",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "name": "atividades_generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauvinzera/Exercicios-de-vari-veis-e-operadores-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kauvinzera/Exercicios-de-vari-veis-e-operadores-/issues"
+  },
+  "homepage": "https://github.com/Kauvinzera/Exercicios-de-vari-veis-e-operadores-#readme"
 }

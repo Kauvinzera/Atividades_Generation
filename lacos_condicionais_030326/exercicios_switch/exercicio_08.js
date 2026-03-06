@@ -1,5 +1,4 @@
-import leia from "readline-sync";
-
+const leia = require("readline-sync");
 
 let operacao;
 let saldo = 1000.00;

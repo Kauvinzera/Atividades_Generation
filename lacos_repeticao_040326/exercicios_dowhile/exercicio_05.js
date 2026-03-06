@@ -1,4 +1,4 @@
-import leia from "readline-sync";
+const leia = require("readline-sync");
 
 let soma = 0
 let contador = 0;

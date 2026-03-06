@@ -1,4 +1,4 @@
-import leia from "readline-sync";
+const leia = require("readline-sync");
 
 let media = 0
 let soma = 0

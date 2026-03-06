@@ -1,5 +1,4 @@
-import leia from "readline-sync";
-
+const leia = require("readline-sync");
 let palavra1;
 let palavra2;
 let palavra3;

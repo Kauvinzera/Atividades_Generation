@@ -1,4 +1,4 @@
-import leia from "readline-sync";
+const leia = require("readline-sync");
 
 const matriz = new Array(10); // linhas
 const mediaAlunos = [];

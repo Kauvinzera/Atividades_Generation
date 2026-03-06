@@ -1,4 +1,4 @@
-import leia from "readline-sync";
+const leia = require("readline-sync");
 
 const vetor = [2, 5, 1, 3, 4, 9, 7, 8, 10, 6];
 
